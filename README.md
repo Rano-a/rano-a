@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4 style="text-decoration: none;">I am an IT student and an apprentice dev.</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,ts,html,css,mysql,sqlite,bash,discord,bots,discordjs,linux,ubuntu,debian,eclipse,vscode,git,github,gitlab,figma&perline=11)](https://skillicons.dev)
